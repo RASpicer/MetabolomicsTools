@@ -1,4 +1,4 @@
-# MetabolomicsTools
+# Metabolomics Tools Wiki
 The Metabolomics Tools Wiki aims to classify metabolomics software tools by either the instrumental data type taken as input and major functionality.
 
 # Instrumental Data Type
