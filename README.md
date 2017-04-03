@@ -1,4 +1,4 @@
-The Metabolomics Tools Wiki aims to classify metabolomics software tools by either the instrumental data type taken as input and/or major functionality.
+The Metabolomics Tools Wiki aims to classify metabolomics software tools by either the instrumental data type taken as input or major functionality.
 
 # Instrumental Data Type
 - [MS](https://github.com/RASpicer/MetabolomicsTools/wiki/MS/)
