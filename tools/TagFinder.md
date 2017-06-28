@@ -50,9 +50,10 @@ N/A
 2012
 
 ## License
-http://www.ncbi.nlm.nih.gov/pubmed/22351182
+
 
 ## Paper
-22351182
+http://www.ncbi.nlm.nih.gov/pubmed/22351182
 
 ## PMID
+22351182
