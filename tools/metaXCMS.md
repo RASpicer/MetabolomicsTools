@@ -1,4 +1,7 @@
 # metaXCMS
+``` diff
+- Deprecated
+```
 Version: 0.1.20
 
 ## Website
