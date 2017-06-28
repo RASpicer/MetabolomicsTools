@@ -1,5 +1,5 @@
 # MetaMapR
-Version:
+Version: 1.2.1
 
 ## Website
 http://dgrapov.github.io/MetaMapR/
