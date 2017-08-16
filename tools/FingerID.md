@@ -52,7 +52,7 @@ N/A
 Apache 2.0
 
 ## Paper
-http://www.ncbi.nlm.nih.gov/pubmed/22815355
+http://www.ncbi.nlm.nih.gov/pubmed/19015140
 
 ## PMID
-22815355
+19015140
