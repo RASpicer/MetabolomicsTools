@@ -1,4 +1,4 @@
-# IosCor
+# IsoCor
 Version: 1.0
 
 ## Website
