@@ -52,7 +52,7 @@ N/A
 GPL-2 | GPL-3
 
 ## Paper
-http://www.ncbi.nlm.nih.gov/pubmed/25887233
+https://www.ncbi.nlm.nih.gov/pubmed/25887233
 
 ## PMID
 25887233
