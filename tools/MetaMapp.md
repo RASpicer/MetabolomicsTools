@@ -1,5 +1,5 @@
 # MetaMapp
-
+Version: 0.1.0
 
 ## Website
 http://metamapp.fiehnlab.ucdavis.edu/ocpu/library/MetaMapp2016/www/
@@ -45,7 +45,7 @@ N/A
 2012
 
 ## Last Updated
-2016
+2017
 
 ## License
 

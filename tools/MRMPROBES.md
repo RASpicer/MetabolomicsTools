@@ -1,5 +1,5 @@
 # MRMPROBES
-Version: 2.3
+Version: 2.42
 
 ## Website
 http://prime.psc.riken.jp/Metabolomics_Software/MRMPROBS/index.html
@@ -45,7 +45,7 @@ Agilent .d, AB Sciex .wiff, Thermo Fisher Scientific .raw, Shimadzu .LCD
 2013
 
 ## Last Updated
-2016
+2018
 
 ## License
 

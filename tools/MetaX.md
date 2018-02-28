@@ -35,7 +35,7 @@ Advanced
 R
 
 ## Dependencies
-R (≥ 3.2.0), Nozzle.R1, ggplot2, reshape2, plyr, BBmisc, mixOmics, missForest, doParallel, DiscriMiner, xcms, ape, scatterplot3d, pheatmap, bootstrap, boot, caret, dplyr, stringr, RColorBrewer, DiffCorr, RCurl, lattice, data.table, igraph, tidyr, scales, VennDiagram, pROC, readr, e1071, randomForest, coop, fpc, ROCR, pcaMethods, vsn, pls, faahKO, mzR, preprocessCore, impute, CAMERA, ropls, sva, SSPA
+Nozzle.R1, ggplot2, parallel, reshape2, plyr, BBmisc, mixOmics, missForest, doParallel, DiscriMiner, xcms, ape, scatterplot3d, pheatmap, bootstrap, boot, caret, dplyr, stringr, RColorBrewer, DiffCorr, RCurl, lattice, data.table, igraph, tidyr, scales, VennDiagram, pROC, readr, e1071, randomForest, coop, fpc, ROCR, pcaMethods, vsn, pls, faahKO, mzR, preprocessCore, impute, CAMERA, ropls, sva, SSPA
 
 ## Input Formats - Open
 mzXML, netCDF, Peaklist .txt/.csv, Progenesis QI .csv

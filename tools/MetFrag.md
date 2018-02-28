@@ -1,5 +1,5 @@
 # MetFrag
-Version: 2.3.1
+Version: 2.4.2
 
 ## Website
 http://c-ruttkies.github.io/MetFrag/

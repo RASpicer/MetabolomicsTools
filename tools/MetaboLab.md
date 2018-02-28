@@ -1,5 +1,5 @@
 # NMRLab/ MetaboLab
-Version: 3.5.0.0
+Version: 0.99.8.2
 
 ## Website
 http://beregond.bham.ac.uk/~ludwigc/metabolab/
@@ -49,7 +49,7 @@ Bruker, Varian/Agilent
 2000
 
 ## Last Updated
-2014
+2017
 
 ## License
 Must Sign and email in agreement form

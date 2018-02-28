@@ -1,5 +1,5 @@
 # PAPi
-Version: 1.16.0
+Version: 1.18.0
 
 ## Website
 https://www.bioconductor.org/packages/release/bioc/html/PAPi.html

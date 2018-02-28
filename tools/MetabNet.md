@@ -1,5 +1,5 @@
 # MetabNet
-Version: 0.99.1
+Version: 1.0.1
 
 ## Website
 http://sourceforge.net/projects/metabnet/
@@ -47,7 +47,7 @@ N/A
 2015
 
 ## Last Updated
-2015
+2015=7
 
 ## License
 GPL-2

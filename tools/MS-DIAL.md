@@ -1,5 +1,5 @@
 # MS-DIAL
-Version: 2.56
+Version: 2.82
 
 ## Website
 http://prime.psc.riken.jp/Metabolomics_Software/MS-DIAL/index.html
@@ -45,7 +45,7 @@ Agilent .d, AB Sciex .wiff, Thermo Fisher Scientific .raw, Bruker Daltonics .d, 
 2015
 
 ## Last Updated
-2017
+2018
 
 ## License
 

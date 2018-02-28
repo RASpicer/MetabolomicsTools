@@ -1,5 +1,5 @@
 # iontree
-Version: 1.20.0
+Version: 1.24.0
 
 ## Website
 http://www.bioconductor.org/packages/release/bioc/html/iontree.html
@@ -47,7 +47,7 @@ N/A
 2012
 
 ## Last Updated
-2016
+2017
 
 ## License
 GPL-2

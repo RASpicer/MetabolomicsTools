@@ -1,5 +1,5 @@
 # IPO
-Version: 1.1.0
+Version: 1.4.1
 
 ## Website
 https://github.com/glibiseller/IPO
@@ -44,7 +44,7 @@ N/A
 2015
 
 ## Last Updated
-2016
+2017
 
 ## License
 GPL (≥ 2) + file LICENSE

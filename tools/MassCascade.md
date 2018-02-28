@@ -1,5 +1,5 @@
 # MassCascade
-Version: 1
+Version: 1.1.0
 
 ## Website
 https://bitbucket.org/beisken/masscascade
@@ -48,7 +48,7 @@ Thermo Scientific .raw
 2013
 
 ## Last Updated
-2014
+2017
 
 ## License
 GPL-3
