@@ -30,7 +30,6 @@ Package
 ## Operating System (OS)
 - Unix/Linux
 - Mac OS
-- Windows
 
 ## Language
 C++
